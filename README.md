@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlvinImbuka
-- 👀 I’m interested in weba and mobile applications.
+- 👀 I’m interested in web and mobile applications.
 - 🌱 I’m currently learning Javascript(React), Spring-boot(Java), Kotlin
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me bulimua@gmail.com, @alvin_imbuka
